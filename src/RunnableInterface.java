@@ -5,7 +5,7 @@ class Java2 implements Runnable // Runnable is interface
     {
         for (int i = 0; i < 3; i++)
         {
-            System.out.println("Java developers");
+            System.out.println("Java1 developers");
             try {
                 Thread.sleep(2000);
             } catch (Exception e) {
